@@ -122,10 +122,10 @@
     </section>
   </main>
   <footer>
-    <p>
-      Proyecto Integrador IAW - <b>Alejandro López Corral</b> e
-      <b>Iván Barchín Barrasa</b> <br />
-      <br /><i> snkrs4you.com </i>
+  <p>
+      Proyecto Empresa - <b>Noe Jefferson Chavarry</b> 
+      <b>Iván Barchín Barrasa</b><b>Iván García</b> <b>Álvaro Parra</b> <br />
+      <br /><i> Devise.com </i>
     </p>
   </footer>
 </body>
