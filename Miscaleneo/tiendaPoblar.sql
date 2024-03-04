@@ -26,8 +26,8 @@ VALUES
 ('CAMISETA PRIMER ANIVERSARIO', 639.99, 'Deportivas', 15, 1, 'jordan1shadow.jpg'),
 ('SUDADERA GRIS 2', 799.99, 'Casuales', 35, 1, 'airmax95.jpg'),
 ('ZAPATILLAS SERPENT', 1099.99, 'Skate', 28, 1, 'airmaxtailwind.jpg'),
-('LLAVERO CONMEMORATIVO 1', 49.99, 'Skate', 22, 1, 'nikedunkpurple.jpeg'),
-('LLAVERO CONMEMORATIVO 2', "EXCLUSIVO", 'Skate', 1, 1, 'nikedunklobster.jpg'),
+('LLAVERO CONMEMORATIVO 1', 99999.99, 'Skate', 22, 1, 'nikedunkpurple.jpeg'),
+('LLAVERO CONMEMORATIVO 2', 99999.99, 'Skate', 1, 1, 'nikedunklobster.jpg'),
 ('BUFANDA CALIFORNIA', 449.99, 'Casuales', 33, 1, 'airforce1nocta.jpg'),
 ('SUDADERA ABISMO', 649.99, 'Skate', 12, 1, 'nikedunkpowerpuff.jpg');
 -- Poblar la tabla pedidos
