@@ -18,18 +18,18 @@ VALUES
 -- Poblar la tabla productos con datos ficticios
 INSERT INTO productos (nombre, precio, categoria, stock, idProveedor, imagenURL)
 VALUES
-('SUDADERA NEGRA Y AZUL', 589.99, 'Deportivas', 50, 1, 'jordan4unc.jpg'),
-('TARJETERO', 199.99, 'Deportivas', 30, 1, 'jordan4blackcat.jpg'),
-('CAMISETA ORIGINALS GRIS', 399.99, 'Deportivas', 20, 1, 'jordan4sb.jpg'),
-('SUDADERA COLOR CARMÍN', 639.99, 'Deportivas', 40, 1, 'jordan1lost.jpg'),
-('CAMISETA ORIGINALS NEGRA', 449.99, 'Deportivas', 25, 1, 'jordan1unc.jpg'),
-('CAMISETA PRIMER ANIVERSARIO', 639.99, 'Deportivas', 15, 1, 'jordan1shadow.jpg'),
-('SUDADERA GRIS 2', 799.99, 'Casuales', 35, 1, 'airmax95.jpg'),
-('ZAPATILLAS SERPENT', 1099.99, 'Skate', 28, 1, 'airmaxtailwind.jpg'),
-('LLAVERO CONMEMORATIVO 1', 99999.99, 'Skate', 22, 1, 'nikedunkpurple.jpeg'),
-('LLAVERO CONMEMORATIVO 2', 99999.99, 'Skate', 1, 1, 'nikedunklobster.jpg'),
-('BUFANDA CALIFORNIA', 449.99, 'Casuales', 33, 1, 'airforce1nocta.jpg'),
-('SUDADERA ABISMO', 649.99, 'Skate', 12, 1, 'nikedunkpowerpuff.jpg');
+('SUDADERA NEGRA Y AZUL', 589.99, 'Deportivas', 1, 1, 'jordan4unc.jpg'),
+('TARJETERO', 199.99, 'Deportivas', 1, 1, 'jordan4blackcat.jpg'),
+('CAMISETA ORIGINALS GRIS', 399.99, 'Deportivas', 1, 1, 'jordan4sb.jpg'),
+('SUDADERA COLOR CARMÍN', 639.99, 'Deportivas', 1, 1, 'jordan1lost.jpg'),
+('CAMISETA ORIGINALS NEGRA', 449.99, 'Deportivas', 1, 1, 'jordan1unc.jpg'),
+('CAMISETA PRIMER ANIVERSARIO', 639.99, 'Deportivas', 1, 1, 'jordan1shadow.jpg'),
+('SUDADERA GRIS 2', 799.99, 'Casuales', 1, 1, 'airmax95.jpg'),
+('ZAPATILLAS SERPENT', 1099.99, 'Skate', 1, 1, 'airmaxtailwind.jpg'),
+('LLAVERO CONMEMORATIVO 1', 99999.99, 'Skate', 10, 1, 'nikedunkpurple.jpeg'),
+('LLAVERO CONMEMORATIVO 2', 99999.99, 'Skate', 10, 1, 'nikedunklobster.jpg'),
+('BUFANDA CALIFORNIA', 449.99, 'Casuales', 1, 1, 'airforce1nocta.jpg'),
+('SUDADERA ABISMO', 649.99, 'Skate', 1, 1, 'nikedunkpowerpuff.jpg');
 -- Poblar la tabla pedidos
 -- Poblar la tabla pedidos con datos ficticios
 INSERT INTO pedidos (cantidad, fechaEntrega, idProducto, idUser, precioUnitario)
