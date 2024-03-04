@@ -225,4 +225,42 @@ table {
     border: 1px solid #ddd;
     padding: 8px;
   }
-  
+
+  .sobre{
+    padding: 25px;
+    color: black;
+    
+  }
+  .texto{
+    margin: 40px;
+  }
+
+  .fotos{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 300px;
+    width: 500px;
+  }
+  .fotos2{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin: auto;
+    height: 200px;
+    width: 300px;
+  }
+  .fotos3{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin: auto;
+    height: 500px;
+    width: 800px;
+  }
